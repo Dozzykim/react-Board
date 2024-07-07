@@ -1,0 +1,19 @@
+.container {
+    margin: 0 auto;
+}
+table {
+    width: 400px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+.post {
+    width: 400px;
+}
+
+.btns {
+    display: flex;
+    justify-content: space-between;
+}
